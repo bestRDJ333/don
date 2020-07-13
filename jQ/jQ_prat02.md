@@ -1,5 +1,8 @@
 jQ_prat02
 
+<script src="https://gist.github.com/bestRDJ333/c39e122ead63d136e1fc263df1cf79de.js"></script>
+
+
 
 |    |    jQ    |   CSS  |    說明  |  備註  |
 |----|----------|--------|----------|-------|
