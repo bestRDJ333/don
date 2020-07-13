@@ -1,5 +1,5 @@
 jQ_prat01 <br>
-https://gist.github.com/bestRDJ333/c39e122ead63d136e1fc263df1cf79de.js
+[link: 2020-07-10-JQ-node01] (https://gist.github.com/bestRDJ333/c39e122ead63d136e1fc263df1cf79de)
 
 <hr>
 jQ_prat02
