@@ -115,7 +115,9 @@ stop();
 <hr>
 <hr>
 
-|.  jQEsaing屬性   |
+jQEsaing屬性
+
+|.  |   |
 |---|----|             
 | easeInQuad  |  easeInCirc |
 | easeOutQuad  | easeOutCirc |
