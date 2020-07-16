@@ -103,10 +103,33 @@ DOM操作
 |  11 | .delay()    |  延遲做動畫 |   
 |   |   |   | 
 
+<hr>
+<hr>
+
 stop();
 |  stop( [clearQueue], [gottoEnd] ) |  能停止指定元素正在執行的動畫  | 
 |---|---|
 | clearQueue  |  設定為true 的話, 則該指定元素會馬上停止接下來的各種動畫; 設定false 不會有作用  |  
 | gottoEnd  |   設定為true 的話, 則該指定元素目前正在進行的動畫會馬上結束; 設定false 不會有作用 |  
 
+<hr>
+<hr>
+
+|.  jQEsaing屬性   |
+|---|----|             
+| easeInQuad  |  easeInCirc |
+| easeOutQuad  | easeOutCirc |
+| easeInOutQuad  |  easeInOutCirc |
+| easeInCubic  |  easeInElastic |
+|  easeOutCubic |  easeOutElastic |
+| easeInOutCubic  |  easeInOutElastic |
+| easeInQuart  |  easeInBack |
+|  easeOutQuart | easeOutBack  |
+| easeInOutQuart  |  easeInOutBack |
+|  easeInQuint |  easeInBounce |
+|  easeOutQuint |   easeOutBounce |
+| easeInOutQuint  |  easeInOutBounce |
+| easeInSine  | easeInOutExpo  |
+|  easeOutSine | easeOutExpo   |
+| easeInOutSine  | easeInExpo   |
 
