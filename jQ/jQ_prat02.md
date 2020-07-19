@@ -138,5 +138,9 @@ jQEsaing屬性
 <hr>
 
 捲軸位置 偵測捲軸
+
+ <img src="../img/3.jpg" width = "700" height = "600" align=center />
 ！[img_3](../img/3.jpg)
+
+<img src="../img/2.jpg" width = "700" height = "600" align=center />
 ！[img_2](../img/2.jpg)
