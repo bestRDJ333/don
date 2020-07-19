@@ -135,3 +135,6 @@ jQEsaing屬性
 |  easeOutSine | easeOutExpo   |
 | easeInOutSine  | easeInExpo   |
 
+<hr>
+
+引用
